@@ -1,9 +1,7 @@
-import React from "react";
-import Weatherapp from "./components/weatherapp";
+import WeatherApp from "./components/weatherApp";
 
 function App() {
-  return <div>App</div>;
-  <Weatherapp />;
+  return <WeatherApp />;
 }
 
 export default App;
