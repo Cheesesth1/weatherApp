@@ -1,7 +1,7 @@
 import React from "react";
 
-function App() {
-  return <div>App</div>;
+function Weatherapp() {
+  return;
 }
 
-export default App;
+export default Weatherapp;
