@@ -1,4 +1,4 @@
-function rainyWeather() {
+function RainyWeather() {
   return (
     <div className="rainy-weather">
       <p>Rainy</p>
@@ -7,4 +7,4 @@ function rainyWeather() {
   );
 }
 
-export default rainyWeather;
+export default RainyWeather;

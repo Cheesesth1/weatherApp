@@ -1,9 +1,10 @@
 function SunnyWeather() {
   return (
     <div className="sunnyWeather">
-      <p>Sunny</p>
+      {<p>Sunny</p>}
       {"🌞"}
     </div>
   );
 }
+
 export default SunnyWeather;
